@@ -7,7 +7,7 @@
                                           
      💜 I love building applications with clean-cut & elegant code
      👜 Studied coding at Shecodes & advancing with professionals on Udemy
-     👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning languages,Quantum-Mechanics & AI
+     👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning languages, Quantum-Mechanics & AI
 
 
 ## 🌐 Socials:
