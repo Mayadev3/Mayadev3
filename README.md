@@ -1,9 +1,9 @@
 
 # 💫 About Me:
                                           
-     Hello, I'm Maya   
+     Hello, I'm Maya!  
      
-     I am a Front-end Developer from Germany 
+     I am a Front-end Developer from Germany⛄ 
                                           
      💜 I love building applications with clean-cut & elegant code
      👜 Studied coding at Shecodes & advancing with professionals on Udemy
