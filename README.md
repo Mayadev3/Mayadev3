@@ -1,6 +1,13 @@
 
 # 💫 About Me:
-                                          Hello, I'm Maya !<br><br>               I am a Front-end Developer from Germany <br><br>💜 I love building applications with clean-cut & elegant code<br><br>👜 Studied coding at Shecodes & advancing with professionals on Udemy<br> <br>👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning languages,  Quantum-Mechanics & AI
+                                          
+     Hello, I'm Maya   
+     
+     I am a Front-end Developer from Germany 
+                                          
+     💜 I love building applications with clean-cut & elegant code
+     👜 Studied coding at Shecodes & advancing with professionals on Udemy
+     👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning languages,Quantum-Mechanics & AI
 
 
 ## 🌐 Socials:
