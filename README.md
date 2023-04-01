@@ -6,9 +6,9 @@
      I am a Full Stack Developer from Germany ⛄ 
                                           
      💜 I love building applications with clean-cut & elegant code
-     👩🏻‍🎓 Full-stack web-development student at CodeOp, Barcelona
+     👩🏻‍🎓 Full-stack graduate from CodeOp, Barcelona
      👜 Studied Front-End development at Shecodes & advancing with professionals on Udemy and other fantastic platforms
-     👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning languages, Quantum-Mechanics & AI
+     👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning tech languages, Quantum-Mechanics & AI
 
 
 ## 🌐 Socials:
