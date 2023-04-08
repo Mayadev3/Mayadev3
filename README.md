@@ -3,7 +3,7 @@
                                           
      Hello, I'm Maya!  
      
-     I am a Full Stack Developer from Germany ⛄ 
+     I am a Full Stack Developer from Germany living in Barcelona ⛄ 
                                           
      💜 I love building applications with clean-cut & elegant code
      👩🏻‍🎓 Full-stack graduate from CodeOp, Barcelona
