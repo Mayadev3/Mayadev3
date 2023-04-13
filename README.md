@@ -24,6 +24,7 @@
 ![Postman](https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/npm-%2300C4CC.svg?style=for-the-badge&logo=npm&logoColor=#00C7B7)
 ![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jwt&logoColor=#00C7B7)
+![Bcrypt](https://img.shields.io/badge/bcrypt-%23000000.svg?style=for-the-badge&logo=bcrypt&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
