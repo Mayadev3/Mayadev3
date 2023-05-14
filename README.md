@@ -6,7 +6,7 @@
      I am a Full Stack Developer from Germany living in Barcelona ⛄ 
                                           
      💜 I love building applications with clean-cut & elegant code
-     👩🏻‍🎓 Full-stack graduate from CodeOp, Barcelona
+     👩🏻‍🎓 Full-Stack Developer from CodeOp, Barcelona
      👜 Studied Front-End development at Shecodes & advancing with professionals on Udemy and other fantastic platforms
      👩🏻‍🎤 Hobbies: Reading Science-Fiction books, learning tech languages, Quantum-Mechanics & AI
 
@@ -20,6 +20,7 @@
 ![Express](https://img.shields.io/badge/express-%23F24E1E.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Node.JS](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=node&logoColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-%23F24E1E.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=#00C7B7)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23F24E1E.svg?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB)
 ![Postman](https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/npm-%2300C4CC.svg?style=for-the-badge&logo=npm&logoColor=#00C7B7)
