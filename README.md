@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23F24E1E.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=#00C7B7)
 ![MongoDB](https://img.shields.io/badge/mongodb-%FFC0CB.svg?style=for-the-badge&logo=mongodb&logoColor=%2361DAFB)
+![Strapi](https://img.shields.io/badge/strapi-%FFC0CB.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/npm-%2300C4CC.svg?style=for-the-badge&logo=npm&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7)
