@@ -16,7 +16,9 @@
 
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next](https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB) 
 ![Express](https://img.shields.io/badge/express-%FFC0CB.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Node.JS](https://img.shields.io/badge/node-%23000000.svg?style=for-the-badge&logo=node&logoColor=green)
 ![MySQL](https://img.shields.io/badge/mysql-%23F24E1E.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,6 +28,7 @@
 ![Postman](https://img.shields.io/badge/postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/npm-%2300C4CC.svg?style=for-the-badge&logo=npm&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=#00C7B7)
+![Tailwind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
